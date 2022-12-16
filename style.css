@@ -1,0 +1,81 @@
+
+.nav-bar{
+    width: 100%;
+    background-color: rgb(255, 95, 37);
+    display: flex;
+    align-items: center;
+    padding-left: 1px;
+    margin: auto;   
+}
+.haske{
+    position: relative;
+    right: -55%;
+}
+.haske span{
+    font-weight: 400;
+}
+.ikonica{
+    margin: 2px;
+    border: 1px solid white;
+    padding-right: 0;
+}
+.hackers-news{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+.tabela1 th{
+    border-right: 1px solid rgb(0, 0, 0); 
+    padding-right: 10px;
+    padding-left: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: 200;
+    font-size: small;
+    font-family: Verdana, Geneva, sans-serif
+}
+table{
+    padding-left: 0;
+    border: none;
+}
+.whole-card{
+    height: auto;
+    width: 86%;
+    margin: auto;
+    background-color: rgb(241, 240, 240);
+}
+#crni-text{
+    font-weight: 500;
+}
+#sivi-text{
+    font-size: small;
+    padding-left: 16px;
+    color: grey;
+}
+#sivi-text2{
+    font-size: small;
+    padding-left: 2px;
+    color: grey;
+}
+#broj{
+    color: grey;
+}
+.linija{
+    color: orange;
+    font-weight: bolder;
+    font-size: large;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.footer_head_text{
+    font-weight: 400;
+}
+.footer_text{
+    font-weight: 400;   
+}
+#srch{
+    color: grey;
+}
+
+
